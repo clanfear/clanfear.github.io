@@ -7,10 +7,12 @@ My primary research focuses on how characteristics of communities impact crime, 
 I approach this topic with methods from demography, computational social science, and
 causal inference. I also teach courses and workshops on programming for data analysis with R, research design, and quantitative methods. I am a committed advocate for reproducible research, and all my course and workshop materials are open access via this website and my [GitHub profile](https://github.com/clanfear). 
 
-[See my CV for my research and teaching.](https://clanfear.github.io/ccl_cv/cv_paged_one_column/cv_one_column_paged.html)
+[See my CV for my research and teaching.](https://clanfear.github.io/ccl_cv/cv_clean/cv_clean.html)
 
 Or take a look at some of my courses:
 
+* [Criminological Research Methods](https://clanfear.github.io/ioc_crm/_site/index.html) (University of Cambridge, 2022)
+* [Introduction to Quantitative Analysis](https://clanfear.github.io/ioc_iqa/_site/index.html) (University of Cambridge, 2022)
 * [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/) (University of Washington, 2021)
 * [Criminology](https://clanfear.github.io/SOC371) (University of Washington, 2021)
 
