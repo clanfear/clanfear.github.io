@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a University Assistant Professor at the Institute of Criminology in the University of Cambridge.
+I am an Assistant Professor at the Institute of Criminology in the University of Cambridge.
 My primary research focuses on how characteristics of communities impact crime, victimization, and social control.
 I approach this topic with methods from demography, computational social science, and
 causal inference. I also teach courses and workshops on programming for data analysis with R, research design, and quantitative methods. I am a committed advocate for reproducible research, and all my course and workshop materials are open access via this website and my [GitHub profile](https://github.com/clanfear). 
