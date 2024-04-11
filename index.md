@@ -18,6 +18,4 @@ Or take a look at some of my courses:
 
 Look to the links on the left if you'd like to contact me.
 
-<footer>
-  <p><small>Hosted on GitHub Pages &mdash; Theme based on <a href="https://github.com/orderedlist/minimal">Minimal Theme by orderedlist</a></small></p>
-</footer>
+
