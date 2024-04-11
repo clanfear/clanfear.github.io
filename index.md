@@ -11,9 +11,13 @@ causal inference. I also teach courses and workshops on programming for data ana
 
 Or take a look at some of my courses:
 
-* [Criminological Research Methods](https://clanfear.github.io/ioc_crm/_site/index.html) (University of Cambridge, 2022)
-* [Introduction to Quantitative Analysis](https://clanfear.github.io/ioc_iqa/_site/index.html) (University of Cambridge, 2022)
+* [Criminological Research Methods](https://clanfear.github.io/ioc_crm/_site/index.html) (University of Cambridge, current)
+* [Introduction to Quantitative Analysis](https://clanfear.github.io/ioc_iqa/_site/index.html) (University of Cambridge, current)
 * [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/) (University of Washington, 2021)
 * [Criminology](https://clanfear.github.io/SOC371) (University of Washington, 2021)
 
 Look to the links on the left if you'd like to contact me.
+
+<footer>
+  <p><small>Hosted on GitHub Pages &mdash; Theme based on <a href="https://github.com/orderedlist/minimal">Minimal Theme by orderedlist</a></small></p>
+</footer>
